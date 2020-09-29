@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main(){
+    float a,b;
+    cout<<"enter two integers"<<endl;
+    cin>>a;
+    cin>>b;
+    cout<<"product = "<<(float(a*b))<<endl;
+}
